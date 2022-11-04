@@ -1,6 +1,7 @@
-### Hola, Soy  Sadys Castro😊
+### <h1> Hola, Soy  Sadys Castro😊 </h1>
 <hr>
 
+Soy Desarrolladora Front-end en formación del Bootcamp intensivo de Laboratoria.
 <!--
 **SADYSCASTROC/SADYSCASTROC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
