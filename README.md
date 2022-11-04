@@ -9,5 +9,6 @@ Soy Desarrolladora Front-end en formación del Bootcamp intensivo de Laboratoria
 -🌱 Actualmente estoy aprendiendo sobre Vtex
 
 -📫 Me puedes contactarme  sadyscastro@gmail.com
+-[LinKedin](https://www.linkedin.com/in/sadys-maria-castro-cardenas-809721231/)
 
 <h3>Skills:</h3>
