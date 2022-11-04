@@ -9,3 +9,5 @@ Soy Desarrolladora Front-end en formación del Bootcamp intensivo de Laboratoria
 -🌱 Actualmente estoy aprendiendo sobre Vtex
 
 -📫 Me puedes contactarme  sadyscastro@gmail.com
+
+<h3>Skills:</h3>
