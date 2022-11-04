@@ -8,7 +8,7 @@ Soy Desarrolladora Front-end en formación del Bootcamp intensivo de Laboratoria
 
 -🌱 Actualmente estoy en el proyecto [md-link](https://github.com/SADYSCASTROC/BOG005-md-links)
 
--📫 Me puedes contactarme  sadyscastro@gmail.com
+-📫 Me puedes contactar  sadyscastro@gmail.com
 
 -[LinKedin](https://www.linkedin.com/in/sadys-maria-castro-cardenas-809721231/)
 
