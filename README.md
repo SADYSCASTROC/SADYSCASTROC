@@ -1,5 +1,5 @@
-##############<h2> Hola, Soy  Sadys Castro😊 </h2>
-<hr>
+<h2> Hola, Soy  Sadys Castro😊 </h2>
+
 
 Soy Desarrolladora Front-end en formación del Bootcamp intensivo de Laboratoria.
 <!--
