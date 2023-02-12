@@ -1,7 +1,15 @@
 <h2> Hola, Soy  Sadys Castro😊 </h2>
 
 
-Soy Desarrolladora Front-end en formación del Bootcamp intensivo de Laboratoria.
+Soy Desarrolladora Front-end.
+Hablidades:
+HTML
+CSS
+JAVASCRIPT
+REACT
+FIREBASE
+FIGMA
+
 <!--
 **SADYSCASTROC/SADYSCASTROC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
