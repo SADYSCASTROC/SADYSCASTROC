@@ -7,6 +7,9 @@ Soy Desarrolladora Front-end.
 **SADYSCASTROC/SADYSCASTROC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 -Hablidades:
+
+<!--
+**SADYSCASTROC/SADYSCASTROC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 -HTML
 -CSS
 -JAVASCRIPT
