@@ -2,13 +2,17 @@
 
 
 Soy Desarrolladora Front-end.
-Hablidades:
-HTML
-CSS
-JAVASCRIPT
-REACT
-FIREBASE
-FIGMA
+
+<!--
+**SADYSCASTROC/SADYSCASTROC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+-Hablidades:
+-HTML
+-CSS
+-JAVASCRIPT
+-REACT
+-FIREBASE
+-FIGMA
 
 <!--
 **SADYSCASTROC/SADYSCASTROC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
